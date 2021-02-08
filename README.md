@@ -1,4 +1,4 @@
-# WioTerminal_SmartDoorBell
+# WioTerminal: Smart Doorbell Project
 Smart Doorbell project for the Wio Terminal.
 
 ![picture](preview.jpg)
