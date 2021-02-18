@@ -24,12 +24,12 @@ BlynkTimer timer;
  
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "O7ey1op5Au5wOGVI5TQp8puPtKZGhKD3";
+char auth[] = "YourAuthToken";
  
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "KRHome";
-char pass[] = "whoask38KR";
+char ssid[] = "YourWifiSSID";
+char pass[] = "YourWiFiPassword";
 
 // Standard Outputs
 String person = "Movement Detected.";
